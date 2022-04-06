@@ -1,0 +1,28 @@
+{
+  "name": "aula-html",
+  "version": "1.0.0",
+  "description": "aula do dia 6 de abril sobre html",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isocabp/aula-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isocabp/aula-html/issues"
+  },
+  "homepage": "https://github.com/isocabp/aula-html#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "express": "^4.17.3"
+  }
+}
